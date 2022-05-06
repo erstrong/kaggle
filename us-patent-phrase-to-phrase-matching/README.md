@@ -3,3 +3,4 @@ Code from working with the semantic similarity data set from the [US Patent Phra
 
 ## Contents
 1. Exploratory Data Analysis (EDA.ipynb): a preliminary exploration of the provided data set.
+2. Lemma Approach for Close Matches (Close Matches.ipynb): looking at just using lemmas to identify close matches
